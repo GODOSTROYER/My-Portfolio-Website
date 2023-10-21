@@ -1,0 +1,12 @@
+/* navbar.css */
+.logo {
+  height: 150%; /* Increase the logo's height */
+  width: 200%;
+  max-width: none; /* Allow the logo to expand to its original width */
+}
+
+/* If you need a margin to the right of the logo */
+.logo-container {
+  width: 200%;
+  margin-right: 10px;
+}
