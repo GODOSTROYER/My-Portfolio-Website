@@ -2,11 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
@@ -28,8 +23,8 @@ function Projects() {
               isBlog={false}
               title="Portfolio And Blog Website (In developent)"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://GODOSTROYER"
-              demoLink="https://arnav.fun"
+              ghLink="https://github.com/GODOSTROYER/My-Portfolio-Website"
+              demoLink="https://www.arnavbule.in/portfolio-2023"
             />
           </Col>
 
