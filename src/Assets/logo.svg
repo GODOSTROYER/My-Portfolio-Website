@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 545" role="img" aria-label="Arnav Bule logo">
+<!-- A, left leg -->
+  <path fill="#FFFFFF"
+        d="M 0,535
+           L 305,8
+           L 350,88
+           L 88,535 Z"/>
+
+  <!-- A, right leg -->
+  <path fill="#FFFFFF"
+        d="M 305,8
+           L 588,535
+           L 498,535
+           L 305,176
+           L 182,389
+           L 137,311 Z"/>
+
+  <!-- Upper B ribbon -->
+  <path fill="#FFFFFF" fill-rule="evenodd"
+        d="M 398,8
+           L 610,8
+           C 704,8 768,61 768,145
+           C 768,229 720,289 647,311
+           L 548,311
+           L 508,240
+           L 607,240
+           C 656,240 689,207 689,163
+           C 689,119 657,86 609,86
+           L 439,86
+           Z"/>
+
+  <!-- Lower B bowl -->
+  <path fill="#FFFFFF" fill-rule="evenodd"
+        d="M 646,259
+           C 739,277 803,335 803,424
+           C 803,497 750,535 654,535
+           L 565,535
+           L 520,454
+           L 650,454
+           C 696,454 725,429 725,389
+           C 725,350 697,326 651,326
+           L 606,326
+           Z"/>
+
+  <!-- Small orange slash -->
+  <path fill="#FFFFFF"
+        d="M 246,386
+           L 336,386
+           L 411,535
+           L 320,535
+           Z"/>
+</svg>
